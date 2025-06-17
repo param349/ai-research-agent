@@ -1,0 +1,12 @@
+# .gitignore
+
+# Secrets
+.env
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+ai_agent_venv/
+.venv/
